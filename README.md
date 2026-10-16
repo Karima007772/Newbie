@@ -1,22 +1,23 @@
-## Getting Started
+# Sistem Manajemen Inventori Barang
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Aplikasi inventori berbasis Java untuk mengelola data barang.
 
-## Folder Structure
+## Fitur
+- Menambah barang
+- Menampilkan seluruh barang
+- Mencari barang berdasarkan kode
+- Memperbarui stok barang
+- Menghapus barang
+- Menampilkan status stok secara otomatis
 
-The workspace contains two folders by default, where:
+## Kategori Barang
+1. Elektronik
+2. ATK
+3. Perlengkapan Rumah Tangga
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-=======
-# Tiga-Sekawan
-Sistem Informasi Inventori Toko Tiga Sekawan
->>>>>>> c35bb39a66bcca19e3dbfe19ad585545fec7f2c6
+## Konsep Algoritma dan Struktur Data
+- Abstract Data Type (ADT)
+- Inheritance
+- Single Linked List
+- Double Linked List
+- Circular Linked List
